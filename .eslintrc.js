@@ -30,7 +30,8 @@ module.exports = {
       "warn",
       {extensions: [".jsx", ".js"]}
     ],
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "no-param-reassign": "off"
   },
   settings: {
     "import/resolver": {
