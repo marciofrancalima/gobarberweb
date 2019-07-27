@@ -31,7 +31,8 @@ module.exports = {
       {extensions: [".jsx", ".js"]}
     ],
     "import/prefer-default-export": "off",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "no-underscore-dangle": "off"
   },
   settings: {
     "import/resolver": {
